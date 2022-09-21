@@ -1,4 +1,4 @@
-/**
+/** Nice video  ->  https://www.youtube.com/watch?v=XIdigk956u0
  * Definition for singly-linked list.
  * function ListNode(val, next) {
  *     this.val = (val===undefined ? 0 : val)

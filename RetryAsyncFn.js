@@ -11,7 +11,7 @@ async function retry(callback, options = { retries: 0 }) {
   return await callback();
 }
 
-const retry2 = async (fn, { retries }) => {
+async function retry2(fn, { retries }) => {
   try {
     return await fn();
   } catch (e) {
