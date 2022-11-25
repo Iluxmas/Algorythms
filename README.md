@@ -1,1 +1,1 @@
-I started learning different algorythms and decided to collect each here.
+I started learning different algorythms and decided to collect some of them here.
